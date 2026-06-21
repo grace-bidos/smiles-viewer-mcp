@@ -1,6 +1,7 @@
 {
-  "name": "@chem-apps/source",
+  "name": "smiles-viewer-mcp",
   "version": "0.0.0",
+  "description": "A small MCP server that renders SMILES strings as molecule diagrams in an OpenAI Apps SDK widget.",
   "license": "MIT",
   "scripts": {
     "nx": "nx"
